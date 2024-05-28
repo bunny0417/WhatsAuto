@@ -5,7 +5,7 @@
 <b>Bulk phone numbers addition to a group</b>
 <h2>Prerequisites</h2>
 <b>Install python on your system</b><br>
-<b>pip install selenium</b>
+<b>pip install selenium</b><br>
 <b>A good internet connection</b>
 <h2>How to run?</h2>
 <b>Make sure to store the phone numbers in a txt file named as "phone_numbers.txt" in the same directory where you have the tool.</b><br>
